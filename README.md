@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/akveo/ng2-smart-table.svg?branch=master)](https://travis-ci.org/akveo/ng2-smart-table)
+[![Build Status](https://travis-ci.org/NordRagnarok/ng2-smart-table?branch=local_version)](https://travis-ci.org/NordRagnarok/ng2-smart-table)
 
 # Angular Smart Table Component
 # This is an unofficial version of ng2-smart-table!
